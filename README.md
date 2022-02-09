@@ -13,3 +13,7 @@ theme <theme number>
 ```
 
 Running the command without any argument will list available themes
+
+
+Credit for themes: 
+[Gogh](https://mayccoll.github.io/Gogh)
